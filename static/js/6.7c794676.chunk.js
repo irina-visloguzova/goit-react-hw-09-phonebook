@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-09-phonebook"]=this["webpackJsonpgoit-react-hw-09-phonebook"]||[]).push([[6],{94:function(e,t,c){"use strict";c.r(t);var o=c.p+"static/media/telephone-symbol.a57dc43f.png",s=c(1);t.default=function(){return Object(s.jsxs)("div",{className:"HomeView",children:[Object(s.jsx)("div",{className:"HomeViewImgBlock",children:Object(s.jsx)("img",{src:o,alt:"",width:"150"})}),Object(s.jsx)("h1",{className:"HomeViewText",children:'Welcome to the "Contacts" application!'})]})}}}]);
+//# sourceMappingURL=6.7c794676.chunk.js.map
